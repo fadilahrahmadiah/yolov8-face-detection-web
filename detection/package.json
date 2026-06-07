@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "vercel-build": "npm install --prefer-offline && next build",
+    "vercel-build": "next build",
     "lint": "eslint"
   },
   "dependencies": {
