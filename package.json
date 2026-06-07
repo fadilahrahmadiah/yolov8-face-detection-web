@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "onnxruntime-web": "^1.26.0",
-    "react-webcam": "^7.2.0"
-  },
-  "devDependencies": {
-    "@types/react": "^19.2.17"
-  }
-}
