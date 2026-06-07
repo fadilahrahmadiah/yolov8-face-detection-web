@@ -1,5 +1,3 @@
 node_modules/
 .next/
 detection/.next/
-*.onnx
-*.pt
